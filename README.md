@@ -25,45 +25,41 @@ Coin type (SHA256) DOGEBC
 Halving
 20000 blocks
 Initial coins per block
-
 10000 coins
-
 Target spacing
-
 60 sec
-
 Target timespan 
-
 5 h
-
 Coinbase maturity
-
 Very Fast 1 blocks
-
 Premine 3.5 %
-
-Bounty, advertising, expansion in the future, pool, exchange, translate, marketing
-
+Bounty, advertising,Game,expansion in the future, pool, exchange, translate, marketing
 Max coinbase
-
 400 Million coins
-
 P2P port 11090
-
 RPC port 21090
 
 
 POOLS
 
 http://dogebc.hashlink.eu/
+
 http://x11-x13-pool.org/dogeblackcoin
+
 https://dogebc.coin-miners.info/
+
 http://www.goldmin.es/ P2POOL
+
 http://dogebc.uuzcloud.com
+
 http://dogebc.8pool.dtdns.net/
+
 www.7000pool.com P2POOL
+
 http://ispace.co.uk/
+
 https://becausepool.com/index.php?coin=dogebc
+
 https://dogebc.minerpools.com
 
 HAPPY MINING

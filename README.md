@@ -40,6 +40,11 @@ P2P port 11090
 RPC port 21090
 
 
+
+BLOCK EXPLORER
+
+http://explorer.x11-x13-pool.org:3004/
+
 POOLS
 
 http://dogebc.hashlink.eu/
@@ -62,4 +67,21 @@ https://becausepool.com/index.php?coin=dogebc
 
 https://dogebc.minerpools.com
 
+http://www.hasher.ca/ P2POOL
+
+http://188.165.68.16/index.php
+
+
+GAME
+
+http://dogebc.dice.cryptospot.me/
+
+OTHER SERVICES
+
+http://cryptos.us/crypto-news/item/54-dogeblack-sha256-graphic-services-and-more
+
+
+
 HAPPY MINING
+
+

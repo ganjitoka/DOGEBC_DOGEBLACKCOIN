@@ -1030,7 +1030,7 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    return fs::path(".");
+    return fs::path(".DogeBlackCoin");
 }
 
 const boost::filesystem::path &GetDataDir(bool fNetSpecific)
